@@ -7,16 +7,14 @@ Details of the activities in this workshop
 
 1.  setup the development environment
 
-2.  Use the default generated GraphWalker project as our first project,
-    > we will add application code and the test methods
+2.  Use the default generated GraphWalker project as our first project, 
+    we will add application code and the test methods
 
-    a.  Add target application code according to generated Model and
-        > test skeleton
+    a.  Add target application code according to generated Model and test skeleton
 
     b.  Enrich the test methods to test the target application code
 
-3.  Create a Model-Based testing integration CLI test for a Binary
-    > Search Tree code.
+3.  Create a Model-Based testing integration CLI test for a Binary Search Tree code.
 
     a.  Create a working Binary Search Tree project
 
@@ -24,12 +22,11 @@ Details of the activities in this workshop
 
         i.  Create the model/s
 
-        ii. Create a MBT solution that is executed and managed by JUnit
-            > & GraphWalker
+        ii. Create a MBT solution that is executed and managed by JUnit & GraphWalker
 
         iii. Create MBT solution that is executed and managed by the
-             > test class itself, and which traversed according to a
-             > GraphWalker running service decisions
+             test class itself, and which traversed according to a
+             GraphWalker running service decisions
 
 The final projects
 ------------------
