@@ -1,7 +1,9 @@
+Model Based testing Workshop
+============================
 > Ofer Rivlin
 
 Details of the activities in this workshop
-==========================================
+------------------------------------------
 
 1.  setup the development environment
 
@@ -30,7 +32,7 @@ Details of the activities in this workshop
              > GraphWalker running service decisions
 
 The final projects
-==================
+------------------
 
 > **The target application** ***GraphWalker-HelloWorld*** **project can
 > be downloaded or cloned from:**
